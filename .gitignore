@@ -1,0 +1,43 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.zip
+dist/
+build/
+*.egg-info/
+
+# Node (if frontend exists)
+node_modules/
+
+# Large vector files
+vectorstore/
+*.npy
+
+# Azurite local storage files
+__azurite_db_*
+

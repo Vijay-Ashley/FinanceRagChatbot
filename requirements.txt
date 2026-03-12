@@ -1,0 +1,27 @@
+# Core Web Framework
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+
+# LangChain
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+
+# Azure Cosmos DB
+azure-cosmos
+
+# Numerical computing
+numpy
+
+# Caching (for TTL cache in cosmos_store.py)
+cachetools
+
+# Document Parsers
+pypdf2
+python-docx
+openpyxl
+pandas
+python-pptx
